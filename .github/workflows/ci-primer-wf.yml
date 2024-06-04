@@ -8,7 +8,7 @@ jobs:
 
     steps:
       - name: Echo
-        run: echoooo "Hello world"
+        run: echo "Hello world"
         shell: bash
 
       - name: Display the path
