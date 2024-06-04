@@ -1,2 +1,2 @@
 # practica09-GitHubActions
-![example workflow](https://github.com/valintea/practica09-GitHubActions/actions/workflows/main.yml/badge.svg)
+![ci-primer-wf](https://github.com/valintea/practica09-GitHubActions/actions/workflows/ci-primer-wf.yml/badge.svg)]
